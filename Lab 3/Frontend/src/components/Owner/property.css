@@ -1,0 +1,248 @@
+* {
+    box-sizing: border-box;
+}
+
+.form-group .searchmytrips .btn.btn-primary{
+    width:10%;
+}
+
+.row {  
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hidethis{
+display:none;
+visibility:hidden;
+}
+
+.city{
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #d4d4d4;
+}
+
+.state{
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #d4d4d4;
+}
+
+.country{
+    height: 50px;
+    border-radius: 4px;
+    border: 1px solid #d4d4d4;
+}
+
+.side {
+    flex: 20%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.main {
+    flex: 70%;
+    background-color: white;
+    padding: 90px;
+}
+
+.propertylist li{
+    font-size:19px;
+    padding-top:25px;
+   
+}
+
+.main .btn.btn-default{
+    width:20%;
+}
+
+.oinbox{
+    display:inline
+}
+
+.oinbox .btn.btn-warning{
+    margin-top: -43px;
+    margin-left: 15px;
+}
+
+.textinbox{
+    width: 600px;
+    height: 50px;
+    border-radius: 4px;
+}
+
+.main .pdetails .btn.btn-warning{
+    width:26%;
+    height:50px;
+}
+
+.main .btn.btn-warning{
+    width:18%;
+    height:50px;
+}
+
+.propertylist{
+    padding-left: 150px
+}
+
+.main .btn.btn-primary{
+    width:30%;
+}
+
+.prenttype{
+    width:8%;
+    background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 10;
+  line-height: 50px;
+}
+
+.prent{
+    width:30%;
+    background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 10;
+  line-height: 50px;
+}
+
+.sublist li{
+font-size: 15px;
+}
+
+.locationbuttons .btn.btn-primary{
+    width:20%;
+    margin-left: 230px; 
+    border-radius: 30px;
+}
+
+.locationbuttons .btn.btn-warning{
+    width:20%;
+    margin-left: 230px; 
+    border-radius: 25px;
+    height: 50px;
+}
+
+.address{
+background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 100px;
+  line-height: 50px;
+  width: 700px
+}
+
+.pdetailform{
+    margin-bottom:10px;
+}
+
+.pdetailform {
+    margin-bottom:10px;
+}
+
+.flex-container34{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    box-shadow: 0 0 50px 0 rgba(0,0,0,.5);
+    width: 900px;
+}
+
+.flex-container34 .odashdiv{
+    background-color: #f3f2f2;
+    width: 870px;
+    margin: 15px;
+    line-height: 25px;
+    font-size: 18px;
+   
+}
+
+.photob .btn.btn-warning{
+    width:20%;
+    margin-left: 270px; 
+}
+
+.pdinput{
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 50px;
+  line-height: 50px;
+  width: 250px;
+  margin-bottom:10px;
+}
+
+.pdescription{
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 4px;
+  font-size: 14px;
+  height: 100px;
+  line-height: 50px;
+  width: 250px;
+  margin-bottom:10px;
+}
+
+.photob .btn.btn-default{
+    width:20%;
+    border-radius: 4px;
+    height:50px;
+    margin-left: 110px; 
+}
+
+.photobutton .btn.btn-primary{
+    margin-left: 200px;
+    width:50%;
+    border-radius: 0px;
+}
+
+.footer {
+    padding: 10px;
+    text-align: left;
+    color: #ffffff;
+    background: rgb(190, 190, 190);
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+    .row, .navbar {   
+        flex-direction: column;
+    }
+}
+
+.flex-container9{
+    display: flex;
+    flex-direction: column;
+    background-color: #b4b2b2;
+    width: 690px;
+}
+
+.flex-container9 > div {
+    background-color: #f8f8f8;
+    width: 660px;
+    margin: 15px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 18px;
+    box-shadow: 0 0 70px 0 rgba(0,0,0,.1);
+  }
+
+  .displaypropimage{
+      height:500px;
+  }
+
+  .listingimage{
+      height: 350px;
+      width: 500px;
+
+  }
+
+  .carouselprop{
+    height: 700px;
+
+  }

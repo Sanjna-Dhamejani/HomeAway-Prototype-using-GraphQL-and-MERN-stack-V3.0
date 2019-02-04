@@ -1,0 +1,183 @@
+.App {
+    text-align: center;
+  }
+  
+  
+  .form-heading { color:#fff; font-size:23px;}
+  .panel4 h2{ color:#444444; font-size:18px; margin:0 0 0 0;}
+  .panel4 p { color:#777777; font-size:14px; margin-bottom:50px; line-height:33px;}
+  .login-form4 .form-control4 {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #d4d4d4;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 50px;
+    line-height: 50px;
+  }
+  .main-div4 {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 2px;
+    margin: -120px auto 10px;
+    max-width: 30%;
+    padding: 50px 70px 70px 71px;
+    border: 1px solid rgb(207, 194, 194);
+  }
+
+  .dropdown-menu{
+    border-radius: 5px;
+  }
+  .Intro{
+    color: #ffffff
+  }
+  
+  .twitter-typeahead{
+    width:100%;
+  }
+  
+.container3{
+    margin-left: 300px;
+    width: 100px;
+    height: 100px
+}
+
+.container4{
+    margin-left: 370px;
+}
+
+.background{
+    background-color: #f4f4f4;
+    min-height: 815px;
+    background-size: cover
+  }
+  
+  .login-form4 .form-group4 {
+    margin-bottom:10px;
+  }
+  .login-form4{ text-align:center;}
+  .forgot a {
+    color: #777777;
+    font-size: 14px;
+    text-decoration: underline;
+  }
+  .login-form4  .btn.btn-warning {
+    background: #f0ad4e none repeat scroll 0 0;
+    border-color: #f0ad4e;
+    color: #ffffff;
+    font-size: 14px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    padding: 0;
+  }
+  
+  .forgot {
+    text-align: left; margin-bottom:30px;
+  }
+  .botto-text {
+    color: #ffffff;
+    font-size: 14px;
+    margin: auto;
+  }
+  .back { text-align: left; margin-top:10px;}
+  .back a {color: #444444; font-size: 13px;text-decoration: none;}
+  
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  
+  .home_search{
+    margin-left: 270px;
+    margin-top: 180px;
+  }
+  
+  .destination{
+    width:28%;
+    height:50px
+  }
+  
+  .flex-container {
+    display:flex;   
+  }
+
+  .btn.btn-default{
+    height:50px;
+    border-radius: 30px;
+    color:rgb(50, 114, 199)
+  }
+  
+  .navbarborder{
+    border: 1px solid #c3c6cc;
+    height: 60px;
+    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+  }
+  
+  .site-header-birdhouse__image{
+    height:30px;
+    
+  }
+  
+  
+  .btn.btn-primary{
+    width:14%;
+    height:50px;
+    border-radius: 30px
+  }
+  .belowwhere{
+    width:18%;
+    height:50px
+  }
+  .flex-container >div {
+  margin: 10px;
+  padding: 60px;
+  font-family: Lato,Arial,Helvetica Neue,sans-serif;
+  line-height: 1.5rem;
+  color: #ffffff;
+  }
+  
+  .nav-link {
+    color: #ffffff
+  }
+  
+  .listyourproperty{
+    border-radius: 40px;
+  }
+  
+  .home_search{
+      max-width: 991px;
+      min-width: 768px;
+      min-height: 118px;
+  }
+  
+  .Jumbotron {
+    background-size: cover;
+    background-position: 50%;
+  }
+    
+  .row{
+   background-color: #a7a3a3;
+  }
+  
+  .footer-copyright text-center py-3{
+    background-color: #a7a3a3;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .Profilelinksnav{
+    height:30px
+  }
+  
+  .container-fluid{
+    border: 2px;
+  }
+  
+  .navbar navbar{
+    color: blue
+  }
